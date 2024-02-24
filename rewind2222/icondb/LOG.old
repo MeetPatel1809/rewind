@@ -1,0 +1,14 @@
+2024/02/06-12:56:44.850 4610 Recovering log #823
+2024/02/06-12:56:44.856 4610 Level-0 table #825: started
+2024/02/06-12:56:44.866 4610 Level-0 table #825: 958816 bytes OK
+2024/02/06-12:56:44.871 4610 Delete type=0 #823
+2024/02/06-12:56:44.871 4610 Delete type=3 #821
+2024/02/06-12:56:44.871 1afc Compacting 4@0 + 1@1 files
+2024/02/06-12:56:44.983 1afc Generated table #827@0: 1144 keys, 206534 bytes
+2024/02/06-12:56:44.983 1afc Compacted 4@0 + 1@1 files => 206534 bytes
+2024/02/06-12:56:44.985 1afc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/06-12:56:44.985 1afc Delete type=2 #814
+2024/02/06-12:56:44.985 1afc Delete type=2 #816
+2024/02/06-12:56:44.985 1afc Delete type=2 #819
+2024/02/06-12:56:44.986 1afc Delete type=2 #822
+2024/02/06-12:56:44.986 1afc Delete type=2 #825
